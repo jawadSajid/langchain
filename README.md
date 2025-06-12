@@ -1,1 +1,1 @@
-# langchain
+Simple Calls to LLMs using PromptTemplate and Chat to fetch data of linkedin profiles (github gist)
