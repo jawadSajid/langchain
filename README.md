@@ -1,1 +1,1 @@
-Simple Calls to LLMs using PromptTemplate and Chat to fetch data of linkedin profiles (github gist)
+Usage of Agents and Tools to fetch data of linkedin profiles (github gist)
